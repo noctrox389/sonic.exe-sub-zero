@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				105,
+				264
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "sonic pov idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				185,
+				254
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "sonic pov left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				160,
+				161
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "sonic pov down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				46,
+				347
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "sonic pov up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				87,
+				192
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "sonic pov right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				217,
+				299
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "sonic pov miss left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				212,
+				305
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "sonic pov miss down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				44,
+				327
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "sonic pov miss up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				85,
+				212
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "sonic pov miss right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sk sonic pov assets",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "sk-sonic",
+	"flip_x": true,
+	"healthbar_colors": [
+		30,
+		130,
+		255
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

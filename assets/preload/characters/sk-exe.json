@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				144,
+				-265
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "sk exe left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-278
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "sk exe down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				-130
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "sk exe up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				-243
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "sk exe right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				140,
+				-250
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "laughStart",
+			"indices": [],
+			"name": "sk exe start laugh"
+		},
+		{
+			"offsets": [
+				140,
+				-265
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "kackle",
+			"indices": [],
+			"name": "sk exe laugh"
+		},
+		{
+			"offsets": [
+				0,
+				-250
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "sk exe idle"
+		},
+		{
+			"offsets": [
+				120,
+				-174
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "ha",
+			"indices": [],
+			"name": "sk exe ha"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				-198
+			],
+			"anim": "ysStart",
+			"fps": 24,
+			"name": "sk exe start YOU SUCK",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-10,
+				-198
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "ys",
+			"loop": false,
+			"name": "sk exe YOU SUCK"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sk exe assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "sk-exe",
+	"flip_x": false,
+	"healthbar_colors": [
+		38,
+		54,
+		214
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
