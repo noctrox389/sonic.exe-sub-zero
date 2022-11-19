@@ -1,0 +1,265 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sk sonic pov assets.png">
+	<!-- Created with Adobe Animate version 19.1.0.349 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sonic pov down0000" x="10" y="10" width="735" height="786"/>
+	<SubTexture name="sonic pov down0001" x="10" y="10" width="735" height="786"/>
+	<SubTexture name="sonic pov down0002" x="755" y="10" width="735" height="786"/>
+	<SubTexture name="sonic pov down0003" x="755" y="10" width="735" height="786"/>
+	<SubTexture name="sonic pov down0004" x="1500" y="10" width="735" height="786"/>
+	<SubTexture name="sonic pov down0005" x="1500" y="10" width="735" height="786"/>
+	<SubTexture name="sonic pov down0006" x="1500" y="10" width="735" height="786"/>
+	<SubTexture name="sonic pov down0007" x="1500" y="10" width="735" height="786"/>
+	<SubTexture name="sonic pov down0008" x="1500" y="10" width="735" height="786"/>
+	<SubTexture name="sonic pov down0009" x="1500" y="10" width="735" height="786"/>
+	<SubTexture name="sonic pov down0010" x="1500" y="10" width="735" height="786"/>
+	<SubTexture name="sonic pov down0011" x="1500" y="10" width="735" height="786"/>
+	<SubTexture name="sonic pov down0012" x="1500" y="10" width="735" height="786"/>
+	<SubTexture name="sonic pov down0013" x="1500" y="10" width="735" height="786"/>
+	<SubTexture name="sonic pov idle0000" x="2245" y="10" width="678" height="881"/>
+	<SubTexture name="sonic pov idle0001" x="2245" y="10" width="678" height="881"/>
+	<SubTexture name="sonic pov idle0002" x="2933" y="10" width="678" height="881"/>
+	<SubTexture name="sonic pov idle0003" x="2933" y="10" width="678" height="881"/>
+	<SubTexture name="sonic pov idle0004" x="3621" y="10" width="678" height="881"/>
+	<SubTexture name="sonic pov idle0005" x="3621" y="10" width="678" height="881"/>
+	<SubTexture name="sonic pov idle0006" x="4309" y="10" width="678" height="881"/>
+	<SubTexture name="sonic pov idle0007" x="4309" y="10" width="678" height="881"/>
+	<SubTexture name="sonic pov idle0008" x="4997" y="10" width="678" height="881"/>
+	<SubTexture name="sonic pov idle0009" x="4997" y="10" width="678" height="881"/>
+	<SubTexture name="sonic pov idle0010" x="4997" y="10" width="678" height="881"/>
+	<SubTexture name="sonic pov idle0011" x="5685" y="10" width="678" height="881"/>
+	<SubTexture name="sonic pov idle0012" x="5685" y="10" width="678" height="881"/>
+	<SubTexture name="sonic pov idle0013" x="5685" y="10" width="678" height="881"/>
+	<SubTexture name="sonic pov left0000" x="6373" y="10" width="730" height="871"/>
+	<SubTexture name="sonic pov left0001" x="6373" y="10" width="730" height="871"/>
+	<SubTexture name="sonic pov left0002" x="7113" y="10" width="730" height="871"/>
+	<SubTexture name="sonic pov left0003" x="7113" y="10" width="730" height="871"/>
+	<SubTexture name="sonic pov left0004" x="10" y="901" width="730" height="871"/>
+	<SubTexture name="sonic pov left0005" x="10" y="901" width="730" height="871"/>
+	<SubTexture name="sonic pov left0006" x="10" y="901" width="730" height="871"/>
+	<SubTexture name="sonic pov left0007" x="10" y="901" width="730" height="871"/>
+	<SubTexture name="sonic pov left0008" x="10" y="901" width="730" height="871"/>
+	<SubTexture name="sonic pov left0009" x="10" y="901" width="730" height="871"/>
+	<SubTexture name="sonic pov left0010" x="10" y="901" width="730" height="871"/>
+	<SubTexture name="sonic pov left0011" x="10" y="901" width="730" height="871"/>
+	<SubTexture name="sonic pov left0012" x="10" y="901" width="730" height="871"/>
+	<SubTexture name="sonic pov left0013" x="10" y="901" width="730" height="871"/>
+	<SubTexture name="sonic pov mad down0000" x="750" y="901" width="735" height="786"/>
+	<SubTexture name="sonic pov mad down0001" x="1495" y="901" width="735" height="786"/>
+	<SubTexture name="sonic pov mad down0002" x="2240" y="901" width="735" height="786"/>
+	<SubTexture name="sonic pov mad down0003" x="2985" y="901" width="735" height="786"/>
+	<SubTexture name="sonic pov mad down0004" x="3730" y="901" width="735" height="786"/>
+	<SubTexture name="sonic pov mad down0005" x="4475" y="901" width="735" height="786"/>
+	<SubTexture name="sonic pov mad down0006" x="5220" y="901" width="735" height="786"/>
+	<SubTexture name="sonic pov mad down0007" x="3730" y="901" width="735" height="786"/>
+	<SubTexture name="sonic pov mad down0008" x="4475" y="901" width="735" height="786"/>
+	<SubTexture name="sonic pov mad down0009" x="5220" y="901" width="735" height="786"/>
+	<SubTexture name="sonic pov mad down0010" x="3730" y="901" width="735" height="786"/>
+	<SubTexture name="sonic pov mad down0011" x="4475" y="901" width="735" height="786"/>
+	<SubTexture name="sonic pov mad down0012" x="5220" y="901" width="735" height="786"/>
+	<SubTexture name="sonic pov mad down0013" x="3730" y="901" width="735" height="786"/>
+	<SubTexture name="sonic pov mad idle0000" x="5965" y="901" width="677" height="881"/>
+	<SubTexture name="sonic pov mad idle0001" x="6652" y="901" width="677" height="881"/>
+	<SubTexture name="sonic pov mad idle0002" x="7339" y="901" width="677" height="881"/>
+	<SubTexture name="sonic pov mad idle0003" x="10" y="1792" width="677" height="881"/>
+	<SubTexture name="sonic pov mad idle0004" x="697" y="1792" width="677" height="881"/>
+	<SubTexture name="sonic pov mad idle0005" x="1384" y="1792" width="677" height="881"/>
+	<SubTexture name="sonic pov mad idle0006" x="2071" y="1792" width="677" height="881"/>
+	<SubTexture name="sonic pov mad idle0007" x="2758" y="1792" width="677" height="881"/>
+	<SubTexture name="sonic pov mad idle0008" x="3445" y="1792" width="677" height="881"/>
+	<SubTexture name="sonic pov mad idle0009" x="4132" y="1792" width="677" height="881"/>
+	<SubTexture name="sonic pov mad idle0010" x="4819" y="1792" width="677" height="881"/>
+	<SubTexture name="sonic pov mad idle0011" x="3445" y="1792" width="677" height="881"/>
+	<SubTexture name="sonic pov mad idle0012" x="4132" y="1792" width="677" height="881"/>
+	<SubTexture name="sonic pov mad idle0013" x="4819" y="1792" width="677" height="881"/>
+	<SubTexture name="sonic pov mad left0000" x="5506" y="1792" width="732" height="871"/>
+	<SubTexture name="sonic pov mad left0001" x="6248" y="1792" width="732" height="871"/>
+	<SubTexture name="sonic pov mad left0002" x="6990" y="1792" width="732" height="871"/>
+	<SubTexture name="sonic pov mad left0003" x="10" y="2683" width="732" height="871"/>
+	<SubTexture name="sonic pov mad left0004" x="752" y="2683" width="732" height="871"/>
+	<SubTexture name="sonic pov mad left0005" x="1494" y="2683" width="732" height="871"/>
+	<SubTexture name="sonic pov mad left0006" x="2236" y="2683" width="732" height="871"/>
+	<SubTexture name="sonic pov mad left0007" x="752" y="2683" width="732" height="871"/>
+	<SubTexture name="sonic pov mad left0008" x="1494" y="2683" width="732" height="871"/>
+	<SubTexture name="sonic pov mad left0009" x="2236" y="2683" width="732" height="871"/>
+	<SubTexture name="sonic pov mad left0010" x="752" y="2683" width="732" height="871"/>
+	<SubTexture name="sonic pov mad left0011" x="1494" y="2683" width="732" height="871"/>
+	<SubTexture name="sonic pov mad left0012" x="2236" y="2683" width="732" height="871"/>
+	<SubTexture name="sonic pov mad left0013" x="752" y="2683" width="732" height="871"/>
+	<SubTexture name="sonic pov mad right0000" x="2978" y="2683" width="828" height="824"/>
+	<SubTexture name="sonic pov mad right0001" x="3816" y="2683" width="828" height="824"/>
+	<SubTexture name="sonic pov mad right0002" x="4654" y="2683" width="828" height="824"/>
+	<SubTexture name="sonic pov mad right0003" x="5492" y="2683" width="828" height="824"/>
+	<SubTexture name="sonic pov mad right0004" x="6330" y="2683" width="828" height="824"/>
+	<SubTexture name="sonic pov mad right0005" x="7168" y="2683" width="828" height="824"/>
+	<SubTexture name="sonic pov mad right0006" x="10" y="3564" width="828" height="824"/>
+	<SubTexture name="sonic pov mad right0007" x="6330" y="2683" width="828" height="824"/>
+	<SubTexture name="sonic pov mad right0008" x="7168" y="2683" width="828" height="824"/>
+	<SubTexture name="sonic pov mad right0009" x="10" y="3564" width="828" height="824"/>
+	<SubTexture name="sonic pov mad right0010" x="6330" y="2683" width="828" height="824"/>
+	<SubTexture name="sonic pov mad right0011" x="7168" y="2683" width="828" height="824"/>
+	<SubTexture name="sonic pov mad right0012" x="10" y="3564" width="828" height="824"/>
+	<SubTexture name="sonic pov mad right0013" x="6330" y="2683" width="828" height="824"/>
+	<SubTexture name="sonic pov mad up0000" x="848" y="3564" width="624" height="1072"/>
+	<SubTexture name="sonic pov mad up0001" x="1482" y="3564" width="624" height="1072"/>
+	<SubTexture name="sonic pov mad up0002" x="2116" y="3564" width="624" height="1072"/>
+	<SubTexture name="sonic pov mad up0003" x="2750" y="3564" width="624" height="1072"/>
+	<SubTexture name="sonic pov mad up0004" x="3384" y="3564" width="624" height="1072"/>
+	<SubTexture name="sonic pov mad up0005" x="4018" y="3564" width="624" height="1072"/>
+	<SubTexture name="sonic pov mad up0006" x="4652" y="3564" width="624" height="1072"/>
+	<SubTexture name="sonic pov mad up0007" x="3384" y="3564" width="624" height="1072"/>
+	<SubTexture name="sonic pov mad up0008" x="4018" y="3564" width="624" height="1072"/>
+	<SubTexture name="sonic pov mad up0009" x="4652" y="3564" width="624" height="1072"/>
+	<SubTexture name="sonic pov mad up0010" x="3384" y="3564" width="624" height="1072"/>
+	<SubTexture name="sonic pov mad up0011" x="4018" y="3564" width="624" height="1072"/>
+	<SubTexture name="sonic pov mad up0012" x="4652" y="3564" width="624" height="1072"/>
+	<SubTexture name="sonic pov mad up0013" x="3384" y="3564" width="624" height="1072"/>
+	<SubTexture name="sonic pov miss down0000" x="5286" y="3564" width="777" height="936"/>
+	<SubTexture name="sonic pov miss down0001" x="6073" y="3564" width="777" height="936"/>
+	<SubTexture name="sonic pov miss down0002" x="6073" y="3564" width="777" height="936"/>
+	<SubTexture name="sonic pov miss down0003" x="6860" y="3564" width="777" height="936"/>
+	<SubTexture name="sonic pov miss down0004" x="6860" y="3564" width="777" height="936"/>
+	<SubTexture name="sonic pov miss down0005" x="6860" y="3564" width="777" height="936"/>
+	<SubTexture name="sonic pov miss down0006" x="10" y="4646" width="777" height="936"/>
+	<SubTexture name="sonic pov miss down0007" x="10" y="4646" width="777" height="936"/>
+	<SubTexture name="sonic pov miss down0008" x="10" y="4646" width="777" height="936"/>
+	<SubTexture name="sonic pov miss down0009" x="797" y="4646" width="777" height="936"/>
+	<SubTexture name="sonic pov miss down0010" x="797" y="4646" width="777" height="936"/>
+	<SubTexture name="sonic pov miss down0011" x="797" y="4646" width="777" height="936"/>
+	<SubTexture name="sonic pov miss down0012" x="797" y="4646" width="777" height="936"/>
+	<SubTexture name="sonic pov miss down0013" x="797" y="4646" width="777" height="936"/>
+	<SubTexture name="sonic pov miss down0014" x="797" y="4646" width="777" height="936"/>
+	<SubTexture name="sonic pov miss down0015" x="797" y="4646" width="777" height="936"/>
+	<SubTexture name="sonic pov miss down0016" x="797" y="4646" width="777" height="936"/>
+	<SubTexture name="sonic pov miss down0017" x="797" y="4646" width="777" height="936"/>
+	<SubTexture name="sonic pov miss down0018" x="797" y="4646" width="777" height="936"/>
+	<SubTexture name="sonic pov miss down0019" x="797" y="4646" width="777" height="936"/>
+	<SubTexture name="sonic pov miss down0020" x="797" y="4646" width="777" height="936"/>
+	<SubTexture name="sonic pov miss down0021" x="797" y="4646" width="777" height="936"/>
+	<SubTexture name="sonic pov miss down0022" x="797" y="4646" width="777" height="936"/>
+	<SubTexture name="sonic pov miss down0023" x="797" y="4646" width="777" height="936"/>
+	<SubTexture name="sonic pov miss down0024" x="797" y="4646" width="777" height="936"/>
+	<SubTexture name="sonic pov miss down0025" x="797" y="4646" width="777" height="936"/>
+	<SubTexture name="sonic pov miss down0026" x="797" y="4646" width="777" height="936"/>
+	<SubTexture name="sonic pov miss down0027" x="797" y="4646" width="777" height="936"/>
+	<SubTexture name="sonic pov miss down0028" x="797" y="4646" width="777" height="936"/>
+	<SubTexture name="sonic pov miss down0029" x="797" y="4646" width="777" height="936"/>
+	<SubTexture name="sonic pov miss left0000" x="1584" y="4646" width="801" height="917"/>
+	<SubTexture name="sonic pov miss left0001" x="2395" y="4646" width="801" height="917"/>
+	<SubTexture name="sonic pov miss left0002" x="2395" y="4646" width="801" height="917"/>
+	<SubTexture name="sonic pov miss left0003" x="3206" y="4646" width="801" height="917"/>
+	<SubTexture name="sonic pov miss left0004" x="3206" y="4646" width="801" height="917"/>
+	<SubTexture name="sonic pov miss left0005" x="3206" y="4646" width="801" height="917"/>
+	<SubTexture name="sonic pov miss left0006" x="4017" y="4646" width="801" height="917"/>
+	<SubTexture name="sonic pov miss left0007" x="4017" y="4646" width="801" height="917"/>
+	<SubTexture name="sonic pov miss left0008" x="4017" y="4646" width="801" height="917"/>
+	<SubTexture name="sonic pov miss left0009" x="4828" y="4646" width="801" height="917"/>
+	<SubTexture name="sonic pov miss left0010" x="4828" y="4646" width="801" height="917"/>
+	<SubTexture name="sonic pov miss left0011" x="4828" y="4646" width="801" height="917"/>
+	<SubTexture name="sonic pov miss left0012" x="4828" y="4646" width="801" height="917"/>
+	<SubTexture name="sonic pov miss left0013" x="4828" y="4646" width="801" height="917"/>
+	<SubTexture name="sonic pov miss left0014" x="4828" y="4646" width="801" height="917"/>
+	<SubTexture name="sonic pov miss left0015" x="4828" y="4646" width="801" height="917"/>
+	<SubTexture name="sonic pov miss left0016" x="4828" y="4646" width="801" height="917"/>
+	<SubTexture name="sonic pov miss left0017" x="4828" y="4646" width="801" height="917"/>
+	<SubTexture name="sonic pov miss left0018" x="4828" y="4646" width="801" height="917"/>
+	<SubTexture name="sonic pov miss left0019" x="4828" y="4646" width="801" height="917"/>
+	<SubTexture name="sonic pov miss left0020" x="4828" y="4646" width="801" height="917"/>
+	<SubTexture name="sonic pov miss left0021" x="4828" y="4646" width="801" height="917"/>
+	<SubTexture name="sonic pov miss left0022" x="4828" y="4646" width="801" height="917"/>
+	<SubTexture name="sonic pov miss left0023" x="4828" y="4646" width="801" height="917"/>
+	<SubTexture name="sonic pov miss left0024" x="4828" y="4646" width="801" height="917"/>
+	<SubTexture name="sonic pov miss left0025" x="4828" y="4646" width="801" height="917"/>
+	<SubTexture name="sonic pov miss left0026" x="4828" y="4646" width="801" height="917"/>
+	<SubTexture name="sonic pov miss left0027" x="4828" y="4646" width="801" height="917"/>
+	<SubTexture name="sonic pov miss left0028" x="4828" y="4646" width="801" height="917"/>
+	<SubTexture name="sonic pov miss left0029" x="4828" y="4646" width="801" height="917"/>
+	<SubTexture name="sonic pov miss right0000" x="5639" y="4646" width="828" height="851"/>
+	<SubTexture name="sonic pov miss right0001" x="6477" y="4646" width="828" height="851"/>
+	<SubTexture name="sonic pov miss right0002" x="6477" y="4646" width="828" height="851"/>
+	<SubTexture name="sonic pov miss right0003" x="7315" y="4646" width="828" height="851"/>
+	<SubTexture name="sonic pov miss right0004" x="7315" y="4646" width="828" height="851"/>
+	<SubTexture name="sonic pov miss right0005" x="7315" y="4646" width="828" height="851"/>
+	<SubTexture name="sonic pov miss right0006" x="10" y="5592" width="828" height="851"/>
+	<SubTexture name="sonic pov miss right0007" x="10" y="5592" width="828" height="851"/>
+	<SubTexture name="sonic pov miss right0008" x="10" y="5592" width="828" height="851"/>
+	<SubTexture name="sonic pov miss right0009" x="848" y="5592" width="828" height="851"/>
+	<SubTexture name="sonic pov miss right0010" x="848" y="5592" width="828" height="851"/>
+	<SubTexture name="sonic pov miss right0011" x="848" y="5592" width="828" height="851"/>
+	<SubTexture name="sonic pov miss right0012" x="848" y="5592" width="828" height="851"/>
+	<SubTexture name="sonic pov miss right0013" x="848" y="5592" width="828" height="851"/>
+	<SubTexture name="sonic pov miss right0014" x="848" y="5592" width="828" height="851"/>
+	<SubTexture name="sonic pov miss right0015" x="848" y="5592" width="828" height="851"/>
+	<SubTexture name="sonic pov miss right0016" x="848" y="5592" width="828" height="851"/>
+	<SubTexture name="sonic pov miss right0017" x="848" y="5592" width="828" height="851"/>
+	<SubTexture name="sonic pov miss right0018" x="848" y="5592" width="828" height="851"/>
+	<SubTexture name="sonic pov miss right0019" x="848" y="5592" width="828" height="851"/>
+	<SubTexture name="sonic pov miss right0020" x="848" y="5592" width="828" height="851"/>
+	<SubTexture name="sonic pov miss right0021" x="848" y="5592" width="828" height="851"/>
+	<SubTexture name="sonic pov miss right0022" x="848" y="5592" width="828" height="851"/>
+	<SubTexture name="sonic pov miss right0023" x="848" y="5592" width="828" height="851"/>
+	<SubTexture name="sonic pov miss right0024" x="848" y="5592" width="828" height="851"/>
+	<SubTexture name="sonic pov miss right0025" x="848" y="5592" width="828" height="851"/>
+	<SubTexture name="sonic pov miss right0026" x="848" y="5592" width="828" height="851"/>
+	<SubTexture name="sonic pov miss right0027" x="848" y="5592" width="828" height="851"/>
+	<SubTexture name="sonic pov miss right0028" x="848" y="5592" width="828" height="851"/>
+	<SubTexture name="sonic pov miss right0029" x="848" y="5592" width="828" height="851"/>
+	<SubTexture name="sonic pov miss up0000" x="1686" y="5592" width="644" height="967"/>
+	<SubTexture name="sonic pov miss up0001" x="2340" y="5592" width="644" height="967"/>
+	<SubTexture name="sonic pov miss up0002" x="2340" y="5592" width="644" height="967"/>
+	<SubTexture name="sonic pov miss up0003" x="2994" y="5592" width="644" height="967"/>
+	<SubTexture name="sonic pov miss up0004" x="2994" y="5592" width="644" height="967"/>
+	<SubTexture name="sonic pov miss up0005" x="2994" y="5592" width="644" height="967"/>
+	<SubTexture name="sonic pov miss up0006" x="3648" y="5592" width="644" height="967"/>
+	<SubTexture name="sonic pov miss up0007" x="3648" y="5592" width="644" height="967"/>
+	<SubTexture name="sonic pov miss up0008" x="3648" y="5592" width="644" height="967"/>
+	<SubTexture name="sonic pov miss up0009" x="4302" y="5592" width="644" height="967"/>
+	<SubTexture name="sonic pov miss up0010" x="4302" y="5592" width="644" height="967"/>
+	<SubTexture name="sonic pov miss up0011" x="4302" y="5592" width="644" height="967"/>
+	<SubTexture name="sonic pov miss up0012" x="4302" y="5592" width="644" height="967"/>
+	<SubTexture name="sonic pov miss up0013" x="4302" y="5592" width="644" height="967"/>
+	<SubTexture name="sonic pov miss up0014" x="4302" y="5592" width="644" height="967"/>
+	<SubTexture name="sonic pov miss up0015" x="4302" y="5592" width="644" height="967"/>
+	<SubTexture name="sonic pov miss up0016" x="4302" y="5592" width="644" height="967"/>
+	<SubTexture name="sonic pov miss up0017" x="4302" y="5592" width="644" height="967"/>
+	<SubTexture name="sonic pov miss up0018" x="4302" y="5592" width="644" height="967"/>
+	<SubTexture name="sonic pov miss up0019" x="4302" y="5592" width="644" height="967"/>
+	<SubTexture name="sonic pov miss up0020" x="4302" y="5592" width="644" height="967"/>
+	<SubTexture name="sonic pov miss up0021" x="4302" y="5592" width="644" height="967"/>
+	<SubTexture name="sonic pov miss up0022" x="4302" y="5592" width="644" height="967"/>
+	<SubTexture name="sonic pov miss up0023" x="4302" y="5592" width="644" height="967"/>
+	<SubTexture name="sonic pov miss up0024" x="4302" y="5592" width="644" height="967"/>
+	<SubTexture name="sonic pov miss up0025" x="4302" y="5592" width="644" height="967"/>
+	<SubTexture name="sonic pov miss up0026" x="4302" y="5592" width="644" height="967"/>
+	<SubTexture name="sonic pov miss up0027" x="4302" y="5592" width="644" height="967"/>
+	<SubTexture name="sonic pov miss up0028" x="4302" y="5592" width="644" height="967"/>
+	<SubTexture name="sonic pov miss up0029" x="4302" y="5592" width="644" height="967"/>
+	<SubTexture name="sonic pov right0000" x="4956" y="5592" width="828" height="824"/>
+	<SubTexture name="sonic pov right0001" x="4956" y="5592" width="828" height="824"/>
+	<SubTexture name="sonic pov right0002" x="5794" y="5592" width="828" height="824"/>
+	<SubTexture name="sonic pov right0003" x="5794" y="5592" width="828" height="824"/>
+	<SubTexture name="sonic pov right0004" x="6632" y="5592" width="828" height="824"/>
+	<SubTexture name="sonic pov right0005" x="6632" y="5592" width="828" height="824"/>
+	<SubTexture name="sonic pov right0006" x="6632" y="5592" width="828" height="824"/>
+	<SubTexture name="sonic pov right0007" x="6632" y="5592" width="828" height="824"/>
+	<SubTexture name="sonic pov right0008" x="6632" y="5592" width="828" height="824"/>
+	<SubTexture name="sonic pov right0009" x="6632" y="5592" width="828" height="824"/>
+	<SubTexture name="sonic pov right0010" x="6632" y="5592" width="828" height="824"/>
+	<SubTexture name="sonic pov right0011" x="6632" y="5592" width="828" height="824"/>
+	<SubTexture name="sonic pov right0012" x="6632" y="5592" width="828" height="824"/>
+	<SubTexture name="sonic pov right0013" x="6632" y="5592" width="828" height="824"/>
+	<SubTexture name="sonic pov up0000" x="7470" y="5592" width="624" height="967"/>
+	<SubTexture name="sonic pov up0001" x="7470" y="5592" width="624" height="967"/>
+	<SubTexture name="sonic pov up0002" x="10" y="6569" width="624" height="967"/>
+	<SubTexture name="sonic pov up0003" x="10" y="6569" width="624" height="967"/>
+	<SubTexture name="sonic pov up0004" x="644" y="6569" width="624" height="967"/>
+	<SubTexture name="sonic pov up0005" x="644" y="6569" width="624" height="967"/>
+	<SubTexture name="sonic pov up0006" x="644" y="6569" width="624" height="967"/>
+	<SubTexture name="sonic pov up0007" x="644" y="6569" width="624" height="967"/>
+	<SubTexture name="sonic pov up0008" x="644" y="6569" width="624" height="967"/>
+	<SubTexture name="sonic pov up0009" x="644" y="6569" width="624" height="967"/>
+	<SubTexture name="sonic pov up0010" x="644" y="6569" width="624" height="967"/>
+	<SubTexture name="sonic pov up0011" x="644" y="6569" width="624" height="967"/>
+	<SubTexture name="sonic pov up0012" x="644" y="6569" width="624" height="967"/>
+	<SubTexture name="sonic pov up0013" x="644" y="6569" width="624" height="967"/>
+</TextureAtlas>
