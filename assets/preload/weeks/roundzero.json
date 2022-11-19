@@ -1,0 +1,32 @@
+{
+	"storyName": "welcome back to 2013",
+	"difficulties": "normal, hard",
+	"hideFreeplay": false,
+	"weekBackground": "exeassets",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"sk",
+		""
+	],
+	"songs": [
+		[
+			"round zero",
+			"sk-sonic",
+			[
+				46,
+				53,
+				175
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "round zero",
+	"hiddenUntilUnlocked": false
+}
