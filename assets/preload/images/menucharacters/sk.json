@@ -1,0 +1,11 @@
+{
+	"idle_anim": "menu sk thing",
+	"image": "menu_sk",
+	"position": [
+		500,
+		160
+	],
+	"flipX": false,
+	"scale": 0.55,
+	"confirm_anim": ""
+}

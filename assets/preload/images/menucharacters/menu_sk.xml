@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menu_sk.png">
+	<!-- Created with Adobe Animate version 19.1.0.349 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="menu sk thing0000" x="10" y="10" width="1243" height="684"/>
+	<SubTexture name="menu sk thing0001" x="1263" y="10" width="1243" height="684"/>
+	<SubTexture name="menu sk thing0002" x="2516" y="10" width="1243" height="684"/>
+	<SubTexture name="menu sk thing0003" x="10" y="704" width="1243" height="684"/>
+	<SubTexture name="menu sk thing0004" x="1263" y="704" width="1243" height="684"/>
+	<SubTexture name="menu sk thing0005" x="2516" y="704" width="1243" height="684"/>
+	<SubTexture name="menu sk thing0006" x="10" y="1398" width="1243" height="684"/>
+	<SubTexture name="menu sk thing0007" x="1263" y="1398" width="1243" height="684"/>
+	<SubTexture name="menu sk thing0008" x="2516" y="1398" width="1243" height="684"/>
+	<SubTexture name="menu sk thing0009" x="10" y="2092" width="1243" height="684"/>
+	<SubTexture name="menu sk thing0010" x="1263" y="2092" width="1243" height="684"/>
+	<SubTexture name="menu sk thing0011" x="1263" y="2092" width="1243" height="684"/>
+	<SubTexture name="menu sk thing0012" x="1263" y="2092" width="1243" height="684"/>
+	<SubTexture name="menu sk thing0013" x="1263" y="2092" width="1243" height="684"/>
+</TextureAtlas>
